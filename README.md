@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello! I'm Anzhela
+
+### Currently working on:
+* CHC solver fuzzer HornFuzz: https://github.com/AnzhelaSukhanova/spacer_fuzzer
+
+
+### Contacts
+* Email: bidelya@gmail.com
 
 <!--
 **AnzhelaSukhanova/AnzhelaSukhanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
