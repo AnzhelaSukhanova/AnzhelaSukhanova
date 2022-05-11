@@ -1,4 +1,4 @@
-## Hello! I'm Anzhela <img src="https://media2.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e471mx31ytrxkqumi8sqh8pqfjb8yyua6ohzjtcerlx&rid=giphy.gif" width="40"> 
+<h2> Hello! I'm Anzhela <img src="https://media2.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e471mx31ytrxkqumi8sqh8pqfjb8yyua6ohzjtcerlx&rid=giphy.gif" width="60"> </h2>
 
 I'm currently completing my bachelor's degree on Software Engineering and working in the Verification or Program Analysis Lab.
 
