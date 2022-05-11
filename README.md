@@ -1,9 +1,9 @@
-## Hello! I'm Anzhela
+## Hello! I'm Anzhela <img src="https://media4.giphy.com/media/aLI73eIgT41b2/giphy.gif?cid=ecf05e471mx31ytrxkqumi8sqh8pqfjb8yyua6ohzjtcerlx&rid=giphy.gif" width="40"> 
 
-Now I'm completing my bachelor's degree on Software Engineering. I love learning new things and helping people.
+Now I'm completing my bachelor's degree on Software Engineering.
 
-### Currently working on:
-* CHC solver fuzzer: https://github.com/AnzhelaSukhanova/HornFuzz
+### Currently working on
+* CHC solver fuzzer [HornFuzz](https://github.com/AnzhelaSukhanova/HornFuzz)
 
 ### Contacts
 * Email: bidelya@gmail.com
