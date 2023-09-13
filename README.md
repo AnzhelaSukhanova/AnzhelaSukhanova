@@ -1,11 +1,13 @@
 <h2> Hello! I'm Anzhela <img src="https://media2.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e471mx31ytrxkqumi8sqh8pqfjb8yyua6ohzjtcerlx&rid=giphy.gif" width="60"> </h2>
 
-### Currently working on
+### Last project
 * CHC solver fuzzer [HornFuzz](https://github.com/AnzhelaSukhanova/HornFuzz)
 
 ### Education
-* BS in Software Engineering
-* I'm currently studying for a master's degree in Software Engineering
+BS in Software Engineering
+
+### Paper
+HornFuzz: Fuzzing CHC solvers https://dl.acm.org/doi/10.1145/3593434.3593455.
 
 ### Contacts
 * Email: bidelya@gmail.com
