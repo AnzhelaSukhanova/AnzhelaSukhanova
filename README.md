@@ -1,5 +1,5 @@
 <h2> Hello! I'm Anzhela <img src="https://media2.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e471mx31ytrxkqumi8sqh8pqfjb8yyua6ohzjtcerlx&rid=giphy.gif" width="60"> </h2>
-QA Engineer in the Kotlin Compiler
+Fuzzer Developer and QA Engineer in the Kotlin Compiler
 
 ### Education
 BS in Software Engineering
